@@ -1,0 +1,9 @@
+[submodule "base"]
+	path = base
+	url = git@github.com:baiyiruxuexufengnian/base.git
+[submodule "ty-policy/sandbox_policy"]
+	path = ty-policy/sandbox_policy
+	url = git@github.com:baiyiruxuexufengnian/sandbox_policy.git
+[submodule "ty-policy/sandbox-signature"]
+	path = ty-policy/sandbox-signature
+	url = git@github.com:baiyiruxuexufengnian/sandbox-signature.git
